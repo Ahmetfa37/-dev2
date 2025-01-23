@@ -1,0 +1,23 @@
+body {
+    background-color: aqua;
+}
+div {
+    width: 180px;
+    padding: 25px;
+    background-color: rgb(137, 196, 137);
+}
+button {
+    background-color: rgb(26, 107, 26);
+    color: rgb(3, 2, 8);
+    user-select: none;
+    width: 41px;
+    border-radius: 8px;
+    padding: 10px  ;
+}
+.alan2 {
+    background-color: rgb(255, 255, 255);
+    padding: 1px;
+    width: 175px;
+    height: 18px;
+}
+
